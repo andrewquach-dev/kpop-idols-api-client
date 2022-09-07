@@ -1,7 +1,7 @@
-<div align="center"><img src="finger (2).png" alt="Yo-kai Watch!" align="center"></div>
+<div align="center"><img src="imgs/finger-heart.png" alt="finger heart" align="center"></div>
 
 <h1 align="center">Kpop idols API client</h1>
-<h2 align="center">A fan-built webapp showing information about your favorite kpop-idol.</h3>
+<h2 align="center">A fan-built webapp showing information about your favorite kpop idol.</h3>
 
 
 
@@ -9,7 +9,7 @@
 
 #### Some Notes:
 
-- List of idols are quite small. Feel free to contribute!
+- Currently the list of idols are quite small. Feel free to contribute!
 
 #### Tech Stuff:
 
