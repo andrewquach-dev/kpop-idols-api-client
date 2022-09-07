@@ -26,7 +26,7 @@
 
 ### :star: Try it Out
 
-- Page is live at: [Kpop Idol API client](https://kpop-idols-api-client.netlify.app/)
+- Page is live at: [Kpop Idol API client](https://ndrwquach.github.io/kpop-idols-api-client/)
 
 - API page is live at: [Kpop Idol API page](https://kpop-idols-api.herokuapp.com/)
 
